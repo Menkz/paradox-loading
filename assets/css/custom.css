@@ -2,7 +2,7 @@
 
 body {
   margin: 0;
-  margin-top:8.5%;
+  margin-top:5%;
   font-family: 'Roboto', sans-serif;
   font-size: 1rem;
   font-weight: 400;
@@ -11,6 +11,12 @@ body {
   text-align: left;
   background-color: #fff;
   background-image: url(../imgs/bg.png);
+
+}
+
+.container {
+
+  max-width: 1540px;
 
 }
 
@@ -109,7 +115,7 @@ body {
   margin: 0;
   border: 3px solid #B016E2;
   margin-bottom: 20px;
-  height:450px !important;
+  height:550px !important;
   position: relative;
   border-radius: 5px;
   box-shadow: 2px 4px rgba(0,0,0,.3);
